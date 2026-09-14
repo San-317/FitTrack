@@ -1,0 +1,27 @@
+---REPORT_START---
+SAVED ON: 2026-09-14
+===== DAILY REPORT =====
+Profile: Name: San | Age: 22 | Weight: 160.0 lbs | Goal: bulk | Sleep: 7.0 hrs
+
+--- NUTRITION ---
+Calories:  5100 / 2900 kcal
+Protein:   25.0 / 192.0 g
+Carbs:     350.0 / 389.0 g
+Fats:      400.0 / 64.0 g
+
+--- WORKOUTS ---
+2026-09-14 | Type: weights | Duration: 110 mins | Calories Burned: ~660 | Notes: Push and Pull
+Total workout time: 110 mins | Calories burned: ~660
+
+--- SLEEP ---
+2026-09-14 | Hours Slept: 7.0 | Quality: good | Feedback: Excellent: Great sleep! Your body is well recovered and ready to perform.
+
+===== SMART COACHING =====
+❌ Protein: You still need 167.0g more protein today. Try adding chicken, eggs, or Greek yogurt.
+⚠️  Calories: You are over your target today. Consider lighter meals tomorrow.
+✅ Workout DONE! Great work putting in 110 mins.
+✅ Sleep looks good! Keep that consistent sleep schedule going.
+
+--- OVERALL ---
+💪 Strong day! You hit 3 out of 4 goals. Almost there!
+---REPORT_END---
